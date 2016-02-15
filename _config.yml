@@ -1,0 +1,28 @@
+name: mockertim
+favicon: null
+layout_spectrum: 0.9005685991141945
+typography_spectrum: 0.062208157032728195
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7371234316378832
+  lightness: 0.44001343636773527
+  saturation: 0.3701425977051258
+  rhythmicContrast: 0.5528756896965206
+purpose: []
