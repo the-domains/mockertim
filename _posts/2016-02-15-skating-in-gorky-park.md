@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Sunday funny sunny winter day.
-datePublished: '2016-03-04T13:41:06.063Z'
-dateModified: '2016-03-04T13:40:56.142Z'
+datePublished: '2016-03-04T13:49:43.885Z'
+dateModified: '2016-03-04T13:48:20.100Z'
 title: Skating in Gorky Park
 author: []
 sourcePath: _posts/2016-02-15-skating-in-gorky-park.md
@@ -24,7 +24,6 @@ _type: Article
 
 ---
 Skating in Gorky Park
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2fb1ed3d5a0bb0252a09c0e8fecdf33016c8b345.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ee3d1a9-9119-40a9-ac83-bffd3db36714.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ee5ec76-c427-4d2d-937d-8f5badc7e88c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1b61a8-7064-4714-a390-512315e72dcf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4dea81b-17b1-43e9-bac4-68312c12d385.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f90ec73-cf0c-420c-ba57-e3a74d1f92c0.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/441e8cd490b468fbc9db8e041f75cb267b5ae7cc.jpg)
