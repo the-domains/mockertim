@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Just For Fun
+    id: f564014e-489c-4e63-9deb-80e2b59e02cb
+    type: content
 favicon: null
 title: Skating in Gorky Park
 description: Winter moments
