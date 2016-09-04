@@ -1,16 +1,15 @@
 ---
-datePublished: '2016-09-01T08:22:29.845Z'
+datePublished: '2016-09-01T09:35:18.216Z'
 sourcePath: _posts/2016-02-15-skating-in-gorky-park.md
 inFeed: true
-isBasedOnUrl: ''
 authors: []
-hasPage: false
+hasPage: true
 keywords: []
 author:
   - name: ''
     url: thegrid.ai/mockertim
 via: {}
-dateModified: '2016-09-01T08:22:12.106Z'
+dateModified: '2016-09-01T09:35:17.379Z'
 title: Just For Fun
 publisher:
   name: Timur Shakuov
@@ -21,6 +20,7 @@ description: ''
 inLanguage: null
 inNav: false
 starred: true
+url: just-for-fun/index.html
 _context: 'http://schema.org'
 _type: Article
 
