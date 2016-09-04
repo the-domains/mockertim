@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T09:35:44.261Z'
+datePublished: '2016-09-01T09:35:47.515Z'
 sourcePath: _posts/2016-02-15-skating-in-gorky-park.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: thegrid.ai/mockertim
 via: {}
-dateModified: '2016-09-01T09:35:44.151Z'
+dateModified: '2016-09-01T09:35:47.413Z'
 title: Just For Fun
 publisher:
   name: Timur Shakuov
